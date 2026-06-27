@@ -1,0 +1,149 @@
+# ☕ Java Practice
+
+Welcome to my **Java Practice** repository! 🚀
+
+This repository contains my Java programming practice, covering basic to advanced concepts along with coding interview questions and problem-solving exercises.
+
+## 📌 Topics Covered
+
+### 🔹 Basics
+- Variables & Data Types
+- Operators
+- Input/Output
+- Conditional Statements
+- Loops
+- Pattern Printing
+
+### 🔹 Arrays
+- Array Traversal
+- Insert Element
+- Delete Element
+- Reverse Array
+- Find Largest & Smallest
+- Second Largest
+- Remove Duplicates
+- Rotate Array
+- Frequency of Elements
+- Kadane's Algorithm
+
+### 🔹 Strings
+- Reverse String
+- Palindrome
+- Anagram
+- Count Vowels
+- Remove Spaces
+- Remove Duplicates
+- Reverse Words
+- Toggle Case
+- First Non-Repeating Character
+- Longest Common Prefix
+- Longest Substring Without Repeating Characters
+
+### 🔹 Searching
+- Linear Search
+- Binary Search
+
+### 🔹 Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+### 🔹 Mathematics
+- Prime Number
+- GCD & LCM
+- Factorial
+- Fibonacci
+- Armstrong Number
+- Palindrome Number
+- Power of Number
+
+### 🔹 Recursion
+- Basic Problems
+- Factorial
+- Fibonacci
+- Sum of Digits
+- Reverse Number
+
+### 🔹 Object-Oriented Programming (OOP)
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Interfaces
+
+### 🔹 Collections
+- ArrayList
+- LinkedList
+- Stack
+- Queue
+- HashMap
+- HashSet
+
+### 🔹 Coding Interview Questions
+- TCS NQT
+- Accenture
+- Capgemini
+- Infosys
+- Wipro
+- Cognizant
+
+---
+
+## 📂 Folder Structure
+
+```
+Java-Practice/
+│
+├── Arrays/
+├── Strings/
+├── Searching/
+├── Sorting/
+├── Mathematics/
+├── Recursion/
+├── OOP/
+├── Collections/
+└── TCS-NQT/
+```
+
+---
+
+## 🎯 Purpose
+
+- Improve Java programming skills
+- Strengthen problem-solving ability
+- Prepare for coding interviews
+- Practice company-specific questions
+
+---
+
+## 💻 Language
+
+- Java
+
+
+---
+
+## ⭐ Progress
+
+- ✅ Basics
+- ✅ Arrays
+- ✅ Strings
+- ⏳ Searching
+- ⏳ Sorting
+- ⏳ OOP
+- ⏳ Collections
+- ⏳ Interview Questions
+
+---
+
+## 🤝 Contributions
+
+This repository is mainly for personal learning and interview preparation. Suggestions and improvements are always welcome.
+
+---
+
+### ⭐ If you find this repository useful, consider giving it a Star!
