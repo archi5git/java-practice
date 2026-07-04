@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/archi5git/java-practice/tree/master/0258-add-digits) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
