@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/archi5git/java-practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/archi5git/java-practice/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/archi5git/java-practice/tree/master/0258-add-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/archi5git/java-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
