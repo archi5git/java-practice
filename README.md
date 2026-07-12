@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/archi5git/java-practice/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
