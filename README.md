@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/archi5git/java-practice/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/archi5git/java-practice/tree/master/0031-next-permutation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
