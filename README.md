@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/archi5git/java-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/archi5git/java-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/archi5git/java-practice/tree/master/0258-add-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/archi5git/java-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/archi5git/java-practice/tree/master/0058-length-of-last-word) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
