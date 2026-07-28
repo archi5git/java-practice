@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/archi5git/java-practice/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/archi5git/java-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/archi5git/java-practice/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
