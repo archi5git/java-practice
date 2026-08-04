@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
 | ------- |
