@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/archi5git/java-practice/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/archi5git/java-practice/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/archi5git/java-practice/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
 ## Memoization
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/archi5git/java-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/archi5git/java-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
