@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/archi5git/java-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/archi5git/java-practice/tree/master/0263-ugly-number) |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/archi5git/java-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/archi5git/java-practice/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/archi5git/java-practice/tree/master/0733-flood-fill) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -151,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
