@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/archi5git/java-practice/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/archi5git/java-practice/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/archi5git/java-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/archi5git/java-practice/tree/master/0070-climbing-stairs) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/archi5git/java-practice/tree/master/0029-divide-two-integers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
