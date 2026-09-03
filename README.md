@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/archi5git/java-practice/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/archi5git/java-practice/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/archi5git/java-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
