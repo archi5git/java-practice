@@ -190,4 +190,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/archi5git/java-practice/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/archi5git/java-practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/archi5git/java-practice/tree/master/0584-find-customer-referee) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/archi5git/java-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
