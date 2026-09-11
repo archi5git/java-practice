@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/archi5git/java-practice/tree/master/0733-flood-fill) |
 | [1288-remove-covered-intervals](https://github.com/archi5git/java-practice/tree/master/1288-remove-covered-intervals) |
 | [2029-stone-game-ix](https://github.com/archi5git/java-practice/tree/master/2029-stone-game-ix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/archi5git/java-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/archi5git/java-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/archi5git/java-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/archi5git/java-practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/archi5git/java-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/archi5git/java-practice/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/archi5git/java-practice/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/archi5git/java-practice/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/archi5git/java-practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/archi5git/java-practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/archi5git/java-practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
