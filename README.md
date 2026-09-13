@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/archi5git/java-practice/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/archi5git/java-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/archi5git/java-practice/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/archi5git/java-practice/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/archi5git/java-practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/archi5git/java-practice/tree/master/0162-find-peak-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/archi5git/java-practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/archi5git/java-practice/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/archi5git/java-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/archi5git/java-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/archi5git/java-practice/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/archi5git/java-practice/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/archi5git/java-practice/tree/master/0733-flood-fill) |
 ## Depth-First Search
