@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/archi5git/java-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/archi5git/java-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/archi5git/java-practice/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/archi5git/java-practice/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/archi5git/java-practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/archi5git/java-practice/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/archi5git/java-practice/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/archi5git/java-practice/tree/master/0205-isomorphic-strings) |
 ## Memoization
 |  |
